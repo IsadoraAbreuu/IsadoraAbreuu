@@ -19,7 +19,7 @@ Além disso, atualmente (2025) sou aprendiz de Soluções Digitais na **BOSCH Ca
 
 # **Obrigada por visitar meu portifólio, volte sempre!**
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Isadora Abreu](https://img.shields.io/badge/:badgeContent)
 
 
 
