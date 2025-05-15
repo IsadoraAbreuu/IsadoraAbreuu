@@ -21,7 +21,7 @@ Além disso, atualmente (2025) sou aprendiz de Soluções Digitais na **BOSCH Ca
 
 ![Isadora Abreu](https://img.shields.io/badge/:badgeContent)
 
-https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%23fcdb05&labelColor=3776AB
+<p https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%23fcdb05&labelColor=3776AB
 
 https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23ffff&labelColor=%23E34F26
 
@@ -31,7 +31,7 @@ https://img.shields.io/badge/canva-%2300C4CC?style=for-the-badge&logo=canva&logo
 
 https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23ffff&labelColor=%23F24E1E
 
-https://img.shields.io/badge/dart-%230175C2?style=for-the-badge&logo=dart&logoColor=%23ffff&labelColor=%230175C2
+https://img.shields.io/badge/dart-%230175C2?style=for-the-badge&logo=dart&logoColor=%23ffff&labelColor=%230175C2></p>
 
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
