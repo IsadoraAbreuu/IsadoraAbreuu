@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Isadora Abreu!
 
-<div align="center">
+<div align="end">
   <img height="170" src="![Isadora's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsadoraAbreuu&show_icons=true&title_color=c71585&icon_color=c71585&text_color=000000&bg_color=fff0f6)" />
 </div>
 
