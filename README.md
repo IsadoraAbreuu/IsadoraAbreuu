@@ -1,4 +1,5 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?IsadoraAbreuu=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraAbreuu&layout=compact&title_color=ff69b4&text_color=ffffff&bg_color=00000000)
+
 
 
 
