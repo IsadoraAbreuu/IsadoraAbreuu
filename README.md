@@ -2,7 +2,7 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Isadora-Overview?style=for-the-badge&logoSize=auto&label=Overview&labelColor=black&color=pink&cacheSeconds=3600">            
 
-![Isadora's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsadoraAbreuu&show_icons=true&title_color=ff1493&icon_color=ff1493&text_color=ff1493&bg_color=ffc0cb)
+![Isadora's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsadoraAbreuu&show_icons=true&title_color=c71585&icon_color=c71585&text_color=000000&bg_color=fff0f6)
 
 
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraAbreuu&layout=compact&title_color=c71585&text_color=000000&bg_color=fff0f6)
