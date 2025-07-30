@@ -1,6 +1,6 @@
 <div align="start">
   # 👋 Olá, meu nome é Isadora Abreu!
-  <p Seja bem-vindo(a) ao meu GitHub! Aqui você encontra projetos, aprendizados e contribuições que refletem minha jornada como desenvolvedora. <p/>
+  <p Seja bem-vindo(a) ao meu GitHub! Aqui você encontra projetos, aprendizados e contribuições que refletem minha jornada como desenvolvedora. /p>
 </div>
 
 <div align="end">
