@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ff69b4&text_color=ff69b4&icon_color=ff69b4&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=00000000)
+
 
 
 
