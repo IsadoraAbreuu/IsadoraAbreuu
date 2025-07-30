@@ -1,11 +1,9 @@
 
 <div align="start">
-  
-# 👋 Olá, meu nome é Isadora Abreu!
-
-Seja bem-vindo(a) ao meu GitHub! Aqui você encontra projetos, aprendizados e contribuições que refletem minha jornada como desenvolvedora.
-
+  # 👋 Olá, meu nome é Isadora Abreu!
+  Seja bem-vindo(a) ao meu GitHub! Aqui você encontra projetos, aprendizados e contribuições que refletem minha jornada como desenvolvedora.
 </div>
+
 <div align="end">
   <img height="170" src="![Isadora's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsadoraAbreuu&show_icons=true&title_color=c71585&icon_color=c71585&text_color=000000&bg_color=fff0f6)" />
 </div>
