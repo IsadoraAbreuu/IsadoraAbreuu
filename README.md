@@ -1,4 +1,5 @@
-![Isadora's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsadoraAbreuu&show_icons=true&title_color=ffffff&icon_color=228B22&text_color=ffffff&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraAbreuu&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=00000000)
+
 
 
 
