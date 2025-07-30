@@ -1,5 +1,13 @@
+# 👋 Olá, meu nome é Isadora Abreu!
 
-![Isadora's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsadoraAbreuu&show_icons=true&title_color=c71585&icon_color=c71585&text_color=000000&bg_color=fff0f6)
+Seja bem-vindo(a) ao meu GitHub! Aqui você encontra projetos, aprendizados e contribuições que refletem minha jornada como desenvolvedora.
+
+<div align="center">
+  <img height="170" src="![Isadora's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsadoraAbreuu&show_icons=true&title_color=c71585&icon_color=c71585&text_color=000000&bg_color=fff0f6)" />
+  <img height="170" src="https://streak-stats.demolab.com?user=isadoraabreu&theme=dracula&hide_border=false" />
+</div>
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraAbreuu&layout=compact&title_color=c71585&text_color=000000&bg_color=fff0f6)
 
