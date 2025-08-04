@@ -15,7 +15,11 @@
 # **Obrigada por visitar meu portifólio, volte sempre!**
 
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,astro,react,tailwind,c,cpp,arduino,mysql,unity,godot,gamemakerstudio" />
+  </a>
+</p>
 
 
 ![Isadora Abreu](https://img.shields.io/badge/:badgeContent)
