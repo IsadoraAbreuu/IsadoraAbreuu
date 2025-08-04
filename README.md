@@ -6,7 +6,6 @@
   </div>
   <div style="align-items: end; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=IsadoraAbreuu&show_icons=true&title_color=c71585&icon_color=c71585&text_color=000000&bg_color=fff0f6" alt="Isadora's GitHub stats" />
-    <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraAbreuu&hide_progress=true&bg_color=fff0f6&title_color=c71585&text_color=000000)"
   </div>
 </div>
 
@@ -16,7 +15,7 @@
 
 <h2>Ferramentas</h2>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraAbreuu&hide_progress=true&bg_color=fff0f6&title_color=c71585&text_color=000000)
 
 
 <p align="center">
