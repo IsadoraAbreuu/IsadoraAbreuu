@@ -15,7 +15,8 @@
 
 <h2>Ferramentas</h2>
 
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Isadora Abreu](https://img.shields.io/badge/Isadora-Abreu-blue)
+
 
 ![Isadora Abreu](https://img.shields.io/badge/:badgeContent)
 <p align="center">
