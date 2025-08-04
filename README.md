@@ -9,10 +9,10 @@
   </div>
 </div>
 
+<details>
+  <summary>Clique para saber mais -></summary>
 
-
-
-### Redes Sociais
+  ### Redes Sociais
 
 
 ### Ferramentas
@@ -25,6 +25,10 @@
     <img src="https://skillicons.dev/icons?i=python,java,html,css,js,figma,arduino" />
   </a>
 </p>
+</details>
+
+
+
 
 
   
