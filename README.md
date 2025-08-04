@@ -11,7 +11,7 @@
 
 
 
-# **Obrigada por visitar meu portifólio, volte sempre!**
+
 
 <h2>Ferramentas</h2>
 <p align="center">
@@ -23,7 +23,7 @@
 
 ![Isadora Abreu](https://img.shields.io/badge/:badgeContent)
   
-
+# **Obrigada por visitar meu portifólio, volte sempre!**
 
 
 
