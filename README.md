@@ -16,7 +16,7 @@
 <h2>Ferramentas</h2>
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraAbreu&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraAbreuu&langs_count=8)
 
 <p align="center">
   <a href="https://skillicons.dev">
