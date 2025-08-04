@@ -10,7 +10,7 @@
 </div>
 
 <details>
-  <summary>Clique para saber mais -></summary>
+  <summary> Saber mais sobre ➤ </summary>
 
   ### Redes Sociais
 
