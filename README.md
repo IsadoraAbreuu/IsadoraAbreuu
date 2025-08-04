@@ -16,7 +16,8 @@
 <h2>Ferramentas</h2>
 
 
-![Isadora Abreu](https://img.shields.io/badge/:badgeContent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraAbreu&layout=compact&theme=tokyonight)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,html,css,js,figma,arduino" />
