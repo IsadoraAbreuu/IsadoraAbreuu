@@ -30,12 +30,7 @@
 
 ![Isadora Abreu](https://img.shields.io/badge/:badgeContent)
   
-![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%23fcdb05&labelColor=3776AB)
-![HTML](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23ffff&labelColor=%23E34F26)
-![CSS](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=%23ffff&labelColor=%231572B6)
-![Canva](https://img.shields.io/badge/canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=%23ffff&labelColor=%2300C4CC)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23ffff&labelColor=%23F24E1E)
-![Dart](https://img.shields.io/badge/dart-%230175C2?style=for-the-badge&logo=dart&logoColor=%23ffff&labelColor=%230175C2)
+
 
 
 
