@@ -1,8 +1,12 @@
-**Olá, meu nome é Isadora Abreu! 🌸**
-
-![Isadora Overview](https://img.shields.io/badge/Isadora-Overview?style=for-the-badge&logoSize=auto&label=Overview&labelColor=black&color=pink&cacheSeconds=3600)
-
-![Isadora's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsadoraAbreuu&show_icons=true&title_color=c71585&icon_color=c71585&text_color=000000&bg_color=fff0f6)
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <h2>Olá, meu nome é Isadora Abreu! 🌸</h2>
+    <img src="https://img.shields.io/badge/Isadora-Overview?style=for-the-badge&logoSize=auto&label=Overview&labelColor=black&color=pink&cacheSeconds=3600" alt="Isadora Overview" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=IsadoraAbreuu&show_icons=true&title_color=c71585&icon_color=c71585&text_color=000000&bg_color=fff0f6" alt="Isadora's GitHub stats" />
+  </div>
+</div>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraAbreuu&layout=compact&title_color=c71585&text_color=000000&bg_color=fff0f6)
