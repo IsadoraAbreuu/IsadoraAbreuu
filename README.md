@@ -5,7 +5,7 @@
 
 <br>
 <div align="center">
-  <div align="start flex">
+  <div display="flex">
    <p>Sou desenvolvedora focada em criar experiências digitais intuitivas e envolventes.  
 Busco sempre desenvolver interfaces visualmente agradáveis e fáceis de usar, garantindo interações fluidas e eficazes. 🚀✨
 </p>
