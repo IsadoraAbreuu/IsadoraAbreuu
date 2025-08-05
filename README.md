@@ -6,7 +6,8 @@
 Desenvolvedora de sistemas em constante evolução e buscando sempre aprimorar minhas habilidades.
 <br>
 
-<img src="https://media.tenor.com/2s6EZVXjLxIAAAAd/aesthetic-flowers-pink-divider-discord.gif" alt="GIF animado" />
+<img src="https://media.tenor.com/2s6EZVXjLxIAAAAd/aesthetic-flowers-pink-divider-discord.gif" alt="GIF animado" width="100%" />
+
 
 
 <h3> Tecnologias | Ferramentas</h3>
