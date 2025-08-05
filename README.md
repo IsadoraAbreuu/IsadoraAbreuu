@@ -33,6 +33,6 @@
 </p>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/isadora-abreu-718359348)
+
 
 
