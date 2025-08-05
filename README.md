@@ -4,15 +4,23 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=30&center=true&vCenter=true&width=1000&lines=🌸+Olá,+meu+nome+é+Isadora+Abreu+🌸;🌸+Bem+vindo(a)+ao+meu+perfil!+🌸">
 
 <br>
-<div align="center">
-  <div display="flex">
-   <p>Sou desenvolvedora focada em criar experiências digitais intuitivas e envolventes.  
-Busco sempre desenvolver interfaces visualmente agradáveis e fáceis de usar, garantindo interações fluidas e eficazes. 🚀✨
-</p>
-    <img width="40%" height="170px" src="https://github-readme-stats.vercel.app/api?username=IsadoraAbreuu&show_icons=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffff&bg_color=0d1117" alt="Isadora Abreu github stats" /> 
-   </div>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; padding: 0 20px;">
+  
+  <!-- Texto à esquerda -->
+  <p style="text-align: start; max-width: 50%;">
+    Sou desenvolvedora focada em criar experiências digitais intuitivas e envolventes.  
+    Busco sempre desenvolver interfaces visualmente agradáveis e fáceis de usar, garantindo interações fluidas e eficazes. 🚀✨
+  </p>
+
+  <!-- Stats à direita -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=IsadoraAbreuu&show_icons=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffff&bg_color=0d1117" 
+    alt="Isadora Abreu GitHub Stats" 
+    style="width: 40%; height: 170px;"
+  />
 </div>
 <hr>
+
 
 ### Tecnologias | Ferramentas
 <p align="center">
