@@ -4,6 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=30&center=true&vCenter=true&width=1000&lines=🌸+Olá,+meu+nome+é+Isadora+Abreu+🌸;🌸+Bem+vindo(a)+ao+meu+perfil!+🌸">
 
 Desenvolvedora de sistemas em constante evolução e buscando sempre aprimorar minhas habilidades.
+<br>
 
 ## Tecnologias | Ferramentas
 <p align="center">
