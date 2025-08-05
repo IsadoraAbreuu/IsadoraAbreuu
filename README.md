@@ -3,6 +3,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=30&center=true&vCenter=true&width=1000&lines=🌸+Olá,+meu+nome+é+Isadora+Abreu+🌸;🌸+Bem+vindo(a)+ao+meu+perfil!+🌸">
 
+Desenvolvedora de sistemas em constante evolução e buscando sempre aprimorar minhas habilidades.
+
 <p align="center">
   <a href="mailto:isaabreucorrea@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logoColor=white" alt="Email">
@@ -11,8 +13,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
-
-Desenvolvedora de sistemas em constante evolução e buscando sempre aprimorar minhas habilidades.
 
 ## Tecnologias | Ferramentas
 <p align="center">
