@@ -6,13 +6,8 @@
 Desenvolvedora de sistemas em constante evolução e buscando sempre aprimorar minhas habilidades.
 <br>
 
-<div class="tenor-gif-embed" data-postid="26331805" data-share-method="host" data-aspect-ratio="21.335" data-width="100%">
- <a href="https://tenor.com/view/discord-line-gif-26331805"></a>
- <a href="https://tenor.com/search/discord+line-stickers"></a>
-</div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js">
- 
-</script>
+<img src="https://media.tenor.com/2s6EZVXjLxIAAAAd/aesthetic-flowers-pink-divider-discord.gif" alt="GIF animado" />
+
 
 <h3> Tecnologias | Ferramentas</h3>
 <p align="center">
