@@ -29,14 +29,16 @@
 </p>
 
 
-<h3> Contatos</h3>
-<p display="flex">
+<h3>Contatos</h3>
+<div style="display: flex; gap: 10px; align-items: center;">
   <a href="mailto:isaabreucorrea@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logoColor=white" alt="Email">
- </a>
-</p>
-<a href="https://www.linkedin.com/in/isadora-abreu-718359348" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a>
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/isadora-abreu-718359348" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</div>
+
 
 
