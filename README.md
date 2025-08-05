@@ -16,7 +16,6 @@
   </a>
 </p>
 
-<div class="tenor-gif-embed" data-postid="19385218" data-share-method="host" data-aspect-ratio="7.62" data-width="100%"><a href="https://tenor.com/view/animated-line-gif-19385218">Animated Line Sticker</a>from <a href="https://tenor.com/search/animated+line-stickers">Animated Line Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Tecnologias | Ferramentas
 <p align="center">
