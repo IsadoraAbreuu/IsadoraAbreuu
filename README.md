@@ -13,7 +13,8 @@ Busco sempre desenvolver interfaces visualmente agradáveis e fáceis de usar, g
    </div>
 </div>
 
-
+<hr>
+<br>
 ### Tecnologias | Ferramentas
 <p align="center">
   <a href="https://skillicons.dev">
