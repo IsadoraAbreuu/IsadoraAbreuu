@@ -1,4 +1,4 @@
-## Bem vindo(a), me chamo Isadora Abreu! 🌸
+## Olá, me chamo Isadora Abreu! 🌸
 <div>
   <div>
   <img src="https://img.shields.io/badge/Isadora-Overview?style=for-the-badge&logoSize=auto&label=Overview&labelColor=black&color=pink&cacheSeconds=3600" alt="Isadora Overview" />
