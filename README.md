@@ -6,7 +6,7 @@
 Desenvolvedora de sistemas em constante evolução e buscando sempre aprimorar minhas habilidades.
 <br>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt3NXQxdHp1bHU1ejhrdmg4OHJzM2RtMW8zaHZwc3cycWVteWNrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UTHHcWHsgf9wAWmD5C/giphy.gif" alt="GIF animado" width="100%">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt3NXQxdHp1bHU1ejhrdmg4OHJzM2RtMW8zaHZwc3cycWVteWNrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UTHHcWHsgf9wAWmD5C/giphy.gif" alt="GIF animado" width="300">
 
 <h3> Tecnologias | Ferramentas</h3>
 <p align="center">
