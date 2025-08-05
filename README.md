@@ -9,14 +9,7 @@
   </div>
 </div>
 
-## Tecnologias | Ferramentas
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,figma,arduino" />
-  </a>
-</p>
 
-## Contatos
 <p align="center">
   <a href="mailto:isaabreucorrea@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -25,6 +18,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
+
+## Tecnologias | Ferramentas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,figma,arduino" />
+  </a>
+</p>
+
+
 
 
 
