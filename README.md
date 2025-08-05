@@ -13,16 +13,12 @@ Busco sempre desenvolver interfaces visualmente agradáveis e fáceis de usar, g
    </div>
 </div>
 
-<hr>
-
 ### Tecnologias | Ferramentas
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,html,css,js,figma,arduino" />
   </a>
 </p>
-
-<hr>
 
 ### Contatos
 <div style="display: flex; gap: 10px; align-items: center;">
