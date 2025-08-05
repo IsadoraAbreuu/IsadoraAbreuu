@@ -9,16 +9,17 @@
   </div>
 </div>
 
-## Tecnologias | Ferramentas
 <p align="center">
+  <h2>Tecnologias | Ferramentas</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,html,css,js,figma,arduino" />
   </a>
 </p>
 
+
 ## Contatos
 
-<p align="center" Contatos>
+<p align="center">
   <a href="mailto:isaabreucorrea@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
