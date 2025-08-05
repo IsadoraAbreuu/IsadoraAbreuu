@@ -8,7 +8,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=IsadoraAbreuu&show_icons=true&title_color=c71585&icon_color=c71585&text_color=000000&bg_color=fff0f6" alt="Isadora's GitHub stats" />
   </div>
 </div>
-<br>
 
 ## Tecnologias | Ferramentas
 
