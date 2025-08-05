@@ -19,14 +19,3 @@
   </a>
 </p>
 </details>
-
-
-
-
-
-  
-# **Obrigada por visitar meu portifólio, volte sempre!**
-
-
-
-
