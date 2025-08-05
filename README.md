@@ -5,7 +5,6 @@
 
 Desenvolvedora de sistemas em constante evolução e buscando sempre aprimorar minhas habilidades.
 
-## Contatos
 <p align="center">
   <a href="mailto:isaabreucorrea@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logoColor=white" alt="Email">
