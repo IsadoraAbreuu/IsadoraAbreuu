@@ -10,15 +10,7 @@
 </div>
 <br>
 
-<details>
-  <summary> Saber mais sobre mim </summary>
-
-  ### Redes Sociais
-
-
-### Ferramentas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraAbreuu&hide_progress=true&bg_color=fff0f6&title_color=c71585&text_color=000000)
+## Tecnologias | Ferramentas
 
 
 <p align="center">
