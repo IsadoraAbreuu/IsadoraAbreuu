@@ -6,15 +6,13 @@
 <br>
 <div align="center">
   <div align="center flex">
+   <p>Sou desenvolvedora focada em criar experiências digitais intuitivas e envolventes.  
+Busco sempre desenvolver interfaces visualmente agradáveis e fáceis de usar, garantindo interações fluidas e eficazes. 🚀✨
+</p>
     <img width="40%" height="170px" src="https://github-readme-stats.vercel.app/api?username=IsadoraAbreuu&show_icons=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffff&bg_color=0d1117" alt="Isadora Abreu github stats" /> 
-    <img width="40%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraAbreuu&layout=compact&hide_border=true&title_color=c77dff&text_color=e0aaff&bg_color=0d1117" />
    </div>
 </div>
 <br>
-<hr>
-<div>
- <img src="https://media.tenor.com/2s6EZVXjLxIAAAAd/aesthetic-flowers-pink-divider-discord.gif" alt="Aesthetic Flowers Pink Divider Discord GIF" width="300" />
-</div>
 
 
 
