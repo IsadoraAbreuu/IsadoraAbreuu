@@ -7,12 +7,8 @@ Desenvolvedora de sistemas em constante evolução e buscando sempre aprimorar m
 <br>
 
 
-<div class="tenor-gif-embed" data-postid="25211644" data-share-method="host" data-aspect-ratio="2.0833" data-width="100%">
-  <a href="https://tenor.com/pt-BR/view/aesthetic-flowers-pink-divider-discord-gif-25211644">
-    Aesthetic Flowers Pink Divider Discord GIF
-  </a> from <a href="https://tenor.com/pt-BR/search/discord-gifs">Discord GIFs</a>
-</div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.tenor.com/2s6EZVXjLxIAAAAd/aesthetic-flowers-pink-divider-discord.gif" alt="Aesthetic Flowers Pink Divider Discord GIF" width="300" />
+
 
 
 
