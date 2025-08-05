@@ -14,9 +14,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A80003&height=100&section=header" />
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fa8fb1&height=100&section=header" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=A80003&size=30&center=true&vCenter=true&width=1000&lines=✦+Hello,+my+name+is+Pâmella+Mendes+✦;✦+Welcome+to+my+profile!+✦">
+<img src="https://readme-typing-svg.herokuapp.com/?color=fa8fb1&size=30&center=true&vCenter=true&width=1000&lines=✦+Hello,+my+name+is+Pâmella+Mendes+✦;✦+Welcome+to+my+profile!+✦">
 
 
 <p align="center">
