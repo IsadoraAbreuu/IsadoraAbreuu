@@ -30,7 +30,7 @@
 
 
 <h3> Contatos</h3>
-<p align="center">
+<p>
   <a href="mailto:isaabreucorrea@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logoColor=white" alt="Email">
  </a>
