@@ -5,15 +5,6 @@
 
 Desenvolvedora de sistemas em constante evolução e buscando sempre aprimorar minhas habilidades.
 
-<p align="center">
-  <a href="mailto:isaabreucorrea@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logoColor=white" alt="Email">
-</a>
-  <a href="https://www.linkedin.com/in/isadora-abreu-718359348" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
-
 ## Tecnologias | Ferramentas
 <p align="center">
   <a href="https://skillicons.dev">
