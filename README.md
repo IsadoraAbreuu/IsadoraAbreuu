@@ -18,7 +18,7 @@
 
 ## Contatos
 
-<p align="center">
+<p align="center" Contatos>
   <a href="mailto:isaabreucorrea@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
