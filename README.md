@@ -3,6 +3,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=30&center=true&vCenter=true&width=1000&lines=🌸+Olá,+meu+nome+é+Isadora+Abreu+🌸;🌸+Bem+vindo(a)+ao+meu+perfil!+🌸">
 
+<br>
 <div align="center">
   <div align="center flex">
     <img width="40%" height="170px" src="https://github-readme-stats.vercel.app/api?username=IsadoraAbreuu&show_icons=true&count_private=true&hide_border=true&title_color=c77dff&icon_color=e0aaff&text_color=2283A2&bg_color=0d1117" alt="Isadora Abreu github stats" /> 
@@ -10,8 +11,9 @@
    </div>
 </div>
 
-<br>
 
+<hr>
+<br>
 <div>
  <img src="https://media.tenor.com/2s6EZVXjLxIAAAAd/aesthetic-flowers-pink-divider-discord.gif" alt="Aesthetic Flowers Pink Divider Discord GIF" width="300" />
 </div>
