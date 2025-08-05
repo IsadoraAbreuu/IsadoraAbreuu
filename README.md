@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  Tecnologias | Ferramentas
+  <p> Tecnologias | Ferramentas</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,html,css,js,figma,arduino" />
   </a>
