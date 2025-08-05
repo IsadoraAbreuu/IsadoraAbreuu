@@ -12,6 +12,7 @@
   </a>
 </p>
 
+Desenvolvedora de sistemas em constante evolução e buscando sempre aprimorar minhas habilidades.
 
 ## Tecnologias | Ferramentas
 <p align="center">
