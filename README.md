@@ -9,6 +9,11 @@
   </div>
 </div>
 
+<div align="center">
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A80003&height=100&section=header" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=A80003&size=30&center=true&vCenter=true&width=1000&lines=✦+Hello,+my+name+is+Pâmella+Mendes+✦;✦+Welcome+to+my+profile!+✦">
+
 
 <p align="center">
   <a href="mailto:isaabreucorrea@gmail.com" target="_blank">
