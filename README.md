@@ -22,6 +22,7 @@ Busco sempre desenvolver interfaces visualmente agradáveis e fáceis de usar, g
   </a>
 </p>
 
+<hr>
 
 ### Contatos
 <div style="display: flex; gap: 10px; align-items: center;">
