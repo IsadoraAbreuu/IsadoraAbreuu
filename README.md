@@ -12,10 +12,6 @@ Busco sempre desenvolver interfaces visualmente agradáveis e fáceis de usar, g
     <img width="40%" height="170px" src="https://github-readme-stats.vercel.app/api?username=IsadoraAbreuu&show_icons=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffff&bg_color=0d1117" alt="Isadora Abreu github stats" /> 
    </div>
 </div>
-<br>
-
-
-
 
 
 ### Tecnologias | Ferramentas
