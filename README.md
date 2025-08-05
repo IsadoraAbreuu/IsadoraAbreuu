@@ -20,7 +20,7 @@
 
 
 
-#### Tecnologias | Ferramentas
+### Tecnologias | Ferramentas
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,html,css,js,figma,arduino" />
@@ -28,7 +28,7 @@
 </p>
 
 
-#### Contatos
+### Contatos
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="mailto:isaabreucorrea@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
