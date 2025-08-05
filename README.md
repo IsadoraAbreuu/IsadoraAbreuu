@@ -6,7 +6,7 @@
 Desenvolvedora de sistemas em constante evolução e buscando sempre aprimorar minhas habilidades.
 <br>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt3NXQxdHp1bHU1ejhrdmg4OHJzM2RtMW8zaHZwc3cycWVteWNrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UTHHcWHsgf9wAWmD5C/giphy.gif" alt="GIF animado" length="100%">
+<div class="tenor-gif-embed" data-postid="26331805" data-share-method="host" data-aspect-ratio="21.335" data-width="100%"><a href="https://tenor.com/view/discord-line-gif-26331805">Discord Line Sticker</a>from <a href="https://tenor.com/search/discord+line-stickers">Discord Line Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h3> Tecnologias | Ferramentas</h3>
 <p align="center">
