@@ -7,8 +7,7 @@
 
 <div style="text-align: center; padding: 0 20px;">
   <p style="max-width: 10px; margin: 0 auto;">
-    I'm a developer focused on creating intuitive and engaging digital experiences.  
-    I strive to build visually appealing and user-friendly interfaces, ensuring smooth and effective interactions.
+    I'm a developer passionate about building impactful and efficient digital solutions. I enjoy solving problems, optimizing performance, and bringing ideas to life through code — always with a focus on clarity, quality, and innovation.
   </p>
 
   <br>
