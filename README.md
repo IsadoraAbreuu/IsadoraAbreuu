@@ -1,10 +1,10 @@
-<div style="text-align">
+<div style="text-align: center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=header" />
   <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=30&center=true&vCenter=true&width=1000&lines=🌸+Hy,+I'm+Isadora+Abreu+🌸;🌸+Welcome+to+my+profile!+🌸">
 </div>
 
 <br>
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; padding: 0 20px;">
+<div style="display: flex; justify-content: space-between; text-align: center; gap: 20px; padding: 0 20px;">
   <p style="text-align: start; max-width: 50%;">
     Sou desenvolvedora focada em criar experiências digitais intuitivas e envolventes.  
     Busco sempre desenvolver interfaces visualmente agradáveis e fáceis de usar, garantindo interações fluidas e eficazes. 🚀✨
