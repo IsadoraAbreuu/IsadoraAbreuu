@@ -6,7 +6,7 @@
 <br>
 
 <div style="text-align: center; padding: 0 20px;">
-  <p style="max-width: 700px; margin: 0 auto;">
+  <p style="max-width: 200px; margin: 0 auto;">
     I'm a developer focused on creating intuitive and engaging digital experiences.  
     I strive to build visually appealing and user-friendly interfaces, ensuring smooth and effective interactions.
   </p>
