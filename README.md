@@ -21,14 +21,14 @@
 
 
 ### Technologies and Tools
-<p align="center">
+<p text-align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,html,css,js,figma,arduino" />
   </a>
 </p>
 
 ### Contacts
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 20px; align-items: center; text-align: center;">
   <a href="mailto:isaabreucorrea@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
