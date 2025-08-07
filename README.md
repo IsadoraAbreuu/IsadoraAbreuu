@@ -21,7 +21,7 @@
 
 
 ### Technologies and Tools
-<p text-align="center">
+<p text-align>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,html,css,js,figma,arduino" />
   </a>
