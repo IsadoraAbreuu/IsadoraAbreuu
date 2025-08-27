@@ -44,6 +44,4 @@
 </div>
 
 
-![snake gif](https://github.com/IsadoraAbreuu/IsadoraAbreuu/blob/output/github-contribution-grid-snake.svg)
-
 
