@@ -7,7 +7,7 @@
 
 <div style="text-align: center; padding: 0 20px;">
   <p style="max-width: 10px; margin: 0 auto;">
-    I'm a developer passionate about building impactful and efficient digital solutions. I enjoy solving problems, optimizing performance, and bringing ideas to life through code — always with a focus on clarity, quality, and innovation.
+ I'm a developer passionate about building impactful and efficient digital solutions. I enjoy solving problems and bringing ideas to life through code — always with a focus on innovation.
   </p>
 
   <br>
