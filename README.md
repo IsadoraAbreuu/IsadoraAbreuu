@@ -19,7 +19,7 @@
   />
 </div>
 
----
+
 
 ### 🛠️ Technologies and Tools
 
@@ -29,7 +29,7 @@
   </a>
 </div>
 
----
+
 
 ### 📬 Contacts
 
