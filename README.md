@@ -25,7 +25,7 @@
 
 <div style="text-align: center;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,figma,arduino,fastapi" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,figma,arduino,fastapi,sql" />
   </a>
 </div>
 
