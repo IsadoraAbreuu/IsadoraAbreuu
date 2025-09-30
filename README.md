@@ -16,8 +16,7 @@
     src="https://github-readme-stats.vercel.app/api?username=IsadoraAbreuu&show_icons=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffff&bg_color=0d1117" 
     alt="Isadora Abreu GitHub Stats"
   />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraAbreuu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=ff69b4" alt="Top Languages" style="width=50%">
-</div>
+
 
 
 
